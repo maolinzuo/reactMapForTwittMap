@@ -21,11 +21,11 @@ module.exports = {
             }
           }
         ]
-      },
-      devServer: {
-        contentBase: "./public",
-        colors: true,
-        historyApiFallback: true,
-        inline: true
-      }
+    }
+//       devServer: {
+//         contentBase: "./public",
+//         colors: true,
+//         historyApiFallback: true,
+//         inline: true
+//       }
 };
